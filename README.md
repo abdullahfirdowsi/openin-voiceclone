@@ -23,6 +23,13 @@ Modified by: [Abdullah Firdowsi](https://www.linkedin.com/in/abdullahfirdowsi/)
 4. Execute the model to generate a cloned voice.
 5. Play the audio and also, save it to the local computer.
 
+## How can I generate a synthetic voice?
+
+For everyone:
+* [Voice cloning model: To generate a synthetic voice](https://github.com/abdullahfirdowsi/listedcareers-openin)
+* [interactive colab notebook]([https://huggingface.co/spaces/GitMylo/bark-voice-cloning](https://colab.research.google.com/drive/1V0M7ZRCAhcqCmm7ltawplWvgh7_u8-pU?usp=sharing))
+* [interactive jupyter notebook](synthetic_voice_clone.ipynb)
+
 ## To evaluate the performance of the model, you can use the following metrics:
 Mean opinion score (MOS): This is a subjective measure of the quality of the generated audio recordings.
 Perceptual evaluation of speech quality (PESQ): This is an objective measure of the quality of the generated audio recordings.
