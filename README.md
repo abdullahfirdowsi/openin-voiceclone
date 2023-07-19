@@ -27,7 +27,7 @@ Modified by: [Abdullah Firdowsi](https://www.linkedin.com/in/abdullahfirdowsi/)
 
 For everyone:
 * [Voice cloning model: To generate a synthetic voice](https://github.com/abdullahfirdowsi/listedcareers-openin)
-* [interactive colab notebook]([https://huggingface.co/spaces/GitMylo/bark-voice-cloning](https://colab.research.google.com/drive/1V0M7ZRCAhcqCmm7ltawplWvgh7_u8-pU?usp=sharing))
+* [interactive colab notebook](https://colab.research.google.com/drive/1V0M7ZRCAhcqCmm7ltawplWvgh7_u8-pU?usp=sharing)
 * [interactive jupyter notebook](synthetic_voice_clone.ipynb)
 
 ## To evaluate the performance of the model, you can use the following metrics:
