@@ -30,8 +30,8 @@ Modified by: [Abdullah Firdowsi](https://www.linkedin.com/in/abdullahfirdowsi/)
 ## To generate a synthetic voice, use my modified code :
 
 * [Voice cloning model: To generate a synthetic voice](https://github.com/abdullahfirdowsi/listedcareers-openin)
-* [interactive colab notebook](https://colab.research.google.com/drive/1V0M7ZRCAhcqCmm7ltawplWvgh7_u8-pU?usp=sharing)
-* [interactive jupyter notebook](synthetic_voice_clone.ipynb)
+* [Interactive colab notebook](https://colab.research.google.com/drive/1V0M7ZRCAhcqCmm7ltawplWvgh7_u8-pU?usp=sharing)
+* [Jupyter notebook](synthetic_voice_clone.ipynb)
 
 ## To evaluate the performance of the model, you can use the following metrics:
 
