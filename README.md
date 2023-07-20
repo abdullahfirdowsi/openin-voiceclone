@@ -37,14 +37,16 @@ Modified by: [Abdullah Firdowsi](https://www.linkedin.com/in/abdullahfirdowsi/)
 
 Mean opinion score (MOS): 
   - This is a subjective measure of the quality of the generated audio recordings.
+    
 Perceptual evaluation of speech quality (PESQ):
   - This is an objective measure of the quality of the generated audio recordings.
+    
 Signal-to-noise ratio (SNR):
   - This is a measure of the amount of noise in the generated audio recordings.
 
 The higher the MOS, PESQ, and SNR scores, the better the performance of the model.
 
-Here are some tips for improving the performance of the model:
+## Here are some tips for improving the performance of the model:
   - Use a larger corpus of audio recordings.
   - Use a better quality corpus of audio recordings.
   - Train the model for longer.
